@@ -5,3 +5,6 @@ Test Branch line added
 Test Branch line added 2
 
 Conflict behavior main
+Commit behavior
+
+Conflict behavior 2
