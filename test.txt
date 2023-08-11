@@ -3,3 +3,7 @@ Bu bir test dosyasıdır.. Değişiklik yapılıyor v2.
 Test Branch line added
 
 Test Branch line added 2
+
+Commit behavior
+
+Conflict behavior 2
